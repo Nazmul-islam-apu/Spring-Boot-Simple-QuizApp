@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    border:0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+h1{
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+.question{
+    background-color: aliceblue;
+    width: 100%;
+    max-width: 800px;
+    padding: 15px 25px;
+    margin: 50px auto 0 auto;
+    border-radius: 4px;
+}
+
+.option{
+    display: flex;
+}
+
+.title{
+    font-size: 18px;
+}
+
+.option p{
+    margin-left: 15px;
+    position: relative;
+    margin-top: -6px;
+}
+
+footer{
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
