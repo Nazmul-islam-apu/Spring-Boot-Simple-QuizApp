@@ -8,7 +8,7 @@ I worked on this project as learning purpose. During implementing this project, 
 
 If you want to use this prject, create a database as "quiz_database" and then add some questions. Here I am posting a sample insert query to add the data in the table. 
 
-### Sample insert query<br>
+### Sample query to insert data into the table<br>
 insert into questions(id, title, option1, option2, option3, option4, ans, chosen)<br>
 values(1, 'i = 9; j =i++; What is the value of i and j now?',  '10, 10','10, 9','9, 10','None of them',2,1);
 <br><br>
