@@ -3,7 +3,7 @@
 I worked on this project as learning purpose. During implementing this project, I have used the following tools:
 * Spring Boot
 * Spring Data Jpa
-* Thymleaf
+* Thymeleaf
 * Mysql
 
 If you want to use this prject, create a database as "quiz_database" and then add some questions. Here I am posting a sample insert query to add the data in the table. 
